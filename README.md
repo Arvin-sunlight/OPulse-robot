@@ -136,3 +136,7 @@ MIT License
 ---
 
 **Disclaimer**: This tool is for technical learning and exchange purposes only. Users bear full responsibility for any financial losses incurred during its use.
+
+If you find this project helpful, please consider giving it a ⭐️ **Star** to show your support. If it saves you time or solves a big problem, you're also welcome to **buy us a coffee** ☕️, which will motivate me to continue maintaining and updating it.
+
+**[Sponsor Me]**: Solana Wallet Address: rAyqwMpQF85DkWqNNMFytV5MB2GGhEhXqLKB2V6gf8p
